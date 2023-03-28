@@ -20,7 +20,6 @@ for (let index: number = subjects.length; index > 0; index--) {
     vers = vers + _subjects.splice(randomnr1, 1)[0] + " ";
     vers = vers + _verbs.splice(randomnr2, 1)[0] + " ";
     vers = vers + _objects.splice(randomnr3, 1)[0] + " ";
-   
     return vers;
 }
 }
