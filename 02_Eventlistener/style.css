@@ -1,0 +1,32 @@
+#boxLeft {
+    height: 600px;
+    width: 600px;
+    background-color: rgb(8, 17, 153);
+    position: absolute;
+}  
+#boxRight {
+    height: 600px;
+    width: 600px;
+    background-color: rgb(255, 38, 0);
+    margin-left: 650px;
+}  
+
+.boxes {
+    margin-left: 100px;
+    margin-right: auto;
+    margin-top: 80px;
+    position: absolute;
+}
+
+h1 {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+}
+
+#spanner {
+    height: 170px;
+    width: 300px;
+    background: rgb(11, 184, 140);
+    position: fixed;
+}
